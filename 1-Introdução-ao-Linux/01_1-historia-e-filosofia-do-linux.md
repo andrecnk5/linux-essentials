@@ -24,41 +24,34 @@ O sucesso do Linux pode ser atribuído à sua natureza de código aberto, que pe
 
 1. Qual foi a principal motivação de Linus Torvalds para criar o Linux?
 
-   - [x] Insatisfação com as limitações do MINIX
+   - [ ] Insatisfação com as limitações do MINIX
    - [ ] Desejo de criar um sistema operacional comercial
    - [ ] Projeto de conclusão de curso
    - [ ] Competir com o Windows
-   - **Justificativa**: A motivação inicial de Linus Torvalds foi a insatisfação com o MINIX, que o levou a desenvolver um sistema mais flexível e aberto para uso em sua máquina pessoal.
 
 2. Em que ano o Linux foi lançado oficialmente?
 
    - [ ] 1989
-   - [x] 1991
+   - [ ] 1991
    - [ ] 1993
    - [ ] 1996
-   - **Justificativa**: Linus Torvalds anunciou o projeto Linux em 1991, marcando o ano oficial de seu lançamento.
 
 3. Qual licença o Linux adotou em 1992 para garantir sua natureza livre e de código aberto?
 
    - [ ] MIT License
-   - [x] GNU General Public License (GPL)
+   - [ ] GNU General Public License (GPL)
    - [ ] Apache License
    - [ ] BSD License
-   - **Justificativa**: Em 1992, o Linux adotou a GNU GPL, garantindo que permaneceria livre para uso, modificação e distribuição.
 
 4. Qual é o nome do mascote do Linux?
 
    - [ ] Leo
    - [ ] Larry
-   - [x] Tux
+   - [ ] Tux
    - [ ] Gnu
-   - **Justificativa**: Tux, o pinguim, é o mascote oficial do Linux, introduzido em 1996.
 
 5. Qual dessas empresas começou a apoiar o Linux em 1998?
    - [ ] Microsoft
    - [ ] Apple
-   - [x] IBM
+   - [ ] IBM
    - [ ] Google
-   - **Justificativa**: Em 1998, a IBM foi uma das primeiras grandes corporações a apoiar o Linux, marcando um ponto de virada importante no reconhecimento corporativo do Linux.
-
-###

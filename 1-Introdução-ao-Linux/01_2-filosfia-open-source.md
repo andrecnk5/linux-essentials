@@ -26,30 +26,26 @@ O kernel do Linux, embora seja um projeto separado do GNU, adotou a GNU General 
 1. Quem iniciou o conceito de Software Livre?
 
    - [ ] Linus Torvalds
-   - [x] Richard Stallman
+   - [ ] Richard Stallman
    - [ ] Eric S. Raymond
    - [ ] Steve Jobs
-   - **Justificativa**: Richard Stallman é o iniciador do conceito de Software Livre, tendo formalizado essa filosofia com o lançamento do Projeto GNU e a criação da Free Software Foundation.
 
 2. Qual dessas liberdades NÃO é uma das quatro liberdades fundamentais do Software Livre?
 
    - [ ] A liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades.
    - [ ] A liberdade de redistribuir cópias para ajudar os outros.
-   - [x] A liberdade de cobrar qualquer preço pela distribuição do software.
+   - [ ] A liberdade de cobrar qualquer preço pela distribuição do software.
    - [ ] A liberdade de melhorar o programa e liberar suas melhorias ao público.
-   - **Justificativa**: Todas as quatro liberdades fundamentais do Software Livre estão relacionadas ao acesso e à distribuição do código-fonte e não especificam a possibilidade de cobrar qualquer preço pela distribuição do software. Embora a redistribuição comercial seja permitida, isso não é destacado como uma liberdade fundamental separada.
 
 3. Qual é a principal diferença entre Software Livre e Open Source?
 
    - [ ] O Software Livre não permite alterações no código.
    - [ ] O Open Source não permite a redistribuição.
-   - [x] O Software Livre enfatiza as liberdades éticas e morais, enquanto o Open Source enfoca os benefícios práticos.
+   - [ ] O Software Livre enfatiza as liberdades éticas e morais, enquanto o Open Source enfoca os benefícios práticos.
    - [ ] O Software Livre é uma filosofia, e o Open Source é uma licença.
-   - **Justificativa**: A principal diferença entre os dois movimentos é a ênfase: enquanto o Software Livre se concentra nas questões éticas e morais das liberdades do usuário, o Open Source destaca os benefícios práticos do compartilhamento do código-fonte.
 
 4. Que licença o Linux adotou para garantir que permanecesse livre e de código aberto?
    - [ ] MIT License
-   - [x] GNU General Public License (GPL)
+   - [ ] GNU General Public License (GPL)
    - [ ] Apache License
    - [ ] BSD License
-   - **Justificativa**: O Linux adotou a GNU General Public License (GPL), assegurando que o kernel e todas as suas modificações permaneçam livres e de código aberto para todos.
