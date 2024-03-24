@@ -6,11 +6,11 @@ Prepare-se para oportunidades emocionantes no mercado de trabalho!
 
 ## Sumário
 
-1. [Introdução ao Linux](#01_0-introducao-ao-linux.md)
+1. [Introdução ao Linux](#1-Introdução-ao-Linux/01_0-introducao-ao-linux)
 
-   - 1.1 [História e Filosofia do Linux](#01_1-historia-e-filosofia-do-linux.md)
-   - 1.2 [Filosofia do Software Livre e Open Source](#01_2-filosofia-open-source.md)
-   - 1.2 [Distribuições do Linux](#01_3-distribuições-do-linux.md)
+   - 1.1 [História e Filosofia do Linux](#1-Introdução-ao-Linux/01_1-historia-e-filosofia-do-linux.md)
+   - 1.2 [Filosofia do Software Livre e Open Source](#1-Introdução-ao-Linux/01_2-filosofia-open-source.md)
+   - 1.2 [Distribuições do Linux](#1-Introdução-ao-Linux/01_3-distribuições-do-linux.md)
 
 2. [Fundamentos do Terminal](#fundamentos-do-terminal)
 
